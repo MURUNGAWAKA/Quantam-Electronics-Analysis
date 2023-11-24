@@ -2,7 +2,6 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 import os 
-import warnings
 import base64
 from io import StringIO, BytesIO
 
